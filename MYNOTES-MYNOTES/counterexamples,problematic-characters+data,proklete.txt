@@ -1,0 +1,31 @@
+I should RESTART MY BROWSER after installing a font.
+
+
+
+[OBJ]￼
+
+'",=
+;003b	semicolon in my unicodedata
+
+–+ ”""’''
+
+ß	00df
+à	0.00E+00
+á	0.00E+00
+â	0.00E+00
+ã	0.00E+00
+ä	0.00E+00
+å	0.00E+00
+æ	0.00E+00
+ç	0.00E+00
+è	0.00E+00
+é	0.00E+00
+ê	00ea
+
+
+
+not private
+
+
+    font-family:'docs-Nunito';
+
