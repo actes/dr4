@@ -1474,3 +1474,742 @@ cd ~/Downloads/golly-3.3-src/gui-wx
 make -f makefile-gtk
 make -f makefile-gtk bgolly
 history -a
+cd ~/Downloads/golly-3.3-src
+export DISPLAY=:0
+./golly
+cd
+cd grdr20/PyMartinCA/beta/JUPYTER
+mc
+man golly
+man bgolly
+bgolly --h
+cd
+cd ~/Downloads/golly-3.3-src
+ll
+bgolly --h
+golly --h
+golly --help
+history -a
+golly 
+history
+history -a
+./bgolly --h
+./golly --help
+./golly 
+echo sudo apt remove golly 
+cd
+sudo apt remove golly 
+history -a ; history >bash_history.sh
+./golly --help
+cd ~/Downloads/golly-3.3-src
+./golly --help
+dpkg -l|grep gtk
+dpkg -l|grep wx
+mc
+cd
+history -a ; history >bash_history.sh
+history
+sudo apt remove --purge  golly 
+sudo apt remove   golly 
+sudo apt remove --purge  golly 
+sudo apt autoremove 
+./wx-config.in
+wx-config.in --list
+./wx-config.in --list
+./golly
+mc
+export DISPLAY=:0
+mc
+cd ~/Downloads/golly-3.3-src
+./golly --help
+ldd ./bgolly 
+ldd ./golly 
+ldd ./golly |grep wx
+ldd --h
+ldd ./bgolly --verbose
+ldd  --verbose ./bgolly
+ldd  --unused ./bgolly
+ldd  --unused ./golly
+history -a
+sudo apt remove --purge  jupyter-core
+sudo apt remove --purge  jupyter-nbextension-jupyter-js-widgets 
+history -a
+sudo apt remove --purge  jupyter-core
+sudo apt remove --purge  ipython ipython3
+sudo apt remove --purge  python-ipython
+sudo apt remove --purge  python-ipython-genutils 
+sudo apt remove --purge  python3-ipykernel 
+sudo apt remove --purge  python3-ipython-genutils 
+sudo apt remove --purge  python-nb
+history -a
+sudo apt autoremove 
+history -a
+dpkg -l|grep pip
+dpkg -l|grep jup
+dpkg -l|grep ipy
+history -a
+history
+dpkg -l|grep nb
+dpkg -l|grep ntb
+dpkg -l|grep not
+dpkg -l|grep note
+history -a
+history
+pip3 list|grep ju
+sudo apt-get install python3-pip 
+pip3 list|grep ju
+sudo apt-get install python3-dev
+pip3 install jupyterlab
+while true; do; sleep 2; free -m; done
+which -a jupyter
+ll .local/bin/
+jupyter
+jupyter -h
+jupyter notebook
+jupyter lab
+history -a
+pip3 install bash_kernel
+python3 -m bash_kernel.install
+history -a
+curl -Lo install.sh https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh
+sudo apt-get install curl
+curl -Lo install.sh https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh
+mc
+sh install.sh --unattended
+history -a
+cat history.zsh
+zsh
+jupyter lab
+top
+history 
+zsh
+cd grdr20/PyMartinCA/beta/JUPYTER
+ll
+history |grep grep
+history |grep awk
+awk '$7<1.4 && $12>800' <r3all.rules.csv | awk '{print( $13, $14, $15, $12)}'|sort -k 3|cut -d \  -f 1-3|uniq -c 
+cd output/
+awk '$7<1.4 && $12>800' <r3all.rules.csv | awk '{print( $13, $14, $15, $12)}'|sort -k 3|cut -d \  -f 1-3|uniq -c 
+awk '$7<1.4 && $12>800' <fromcsv-g3ltl-r2.rules.csv | awk '{print( $13, $14, $15, $12)}'|sort -k 3|cut -d \  -f 1-3|uniq -c 
+awk '$7<1.6 && $12>250' <fromcsv-g3ltl-r2.rules.csv | awk '{print( $13, $14, $15, $12)}'|sort -k 3|cut -d \  -f 1-3|uniq -c 
+awk '$7<1.6 && $12>250' <fromcsv-g3ltl-r2.rules.csv | awk '{print( $13, $14, $15, $12)}'|sort -k 3|cut -d \  -f 1-3
+awk '$7<1.6 && $12>250' <fromcsv-g3ltl-r2.rules.csv | awk '{print( $13, $14, $15, $12)}'|sort -k 3
+awk '$7<1.6 && $12>250' <fromcsv-g3ltl-r2.rules.csv | awk '{print( $13, $14, $15, $12)}'
+awk '$7<1.6 && $12>250' <fromcsv-g3ltl-r2.rules.csv | awk '{print( $13, $14, $15, $12, $8)}'
+awk '$7<1.6 && $12>250' <fromcsv-g3ltl-r2.rules.csv | awk '{print( $13, $14, $15, $12, $7)}'
+history -a
+ll|less
+history -a ; history >bash_history.sh
+history |grep sort
+mc
+jupyter notebook
+top
+jupyter notebook
+free -m
+jupyter notebook
+cd ~/grdr20/PyMartinCA/beta/JUPYTER/output/
+zsh
+mc
+cd ~/grdr20/PyMartinCA/beta/JUPYTER/output/
+mc
+cd
+cd ~/grdr20/PyMartinCA/beta/testOfRules/
+ipython3   
+ipython testOfRules-from-csv-or-cube-or-random.py
+ipython testOfRules-from-csv-or-cube.py 
+ipython testOfRules-from-csv-or-cube-or-random.py
+history -a ; history >bash_history.sh
+ipython testOfRules-from-csv-or-cube-or-random.py
+history -a ; history >bash_history.sh
+while true ; do ; sleep 1; echo sfsd; done
+while true  do ; sleep 1; echo sfsd; done
+while true ; do  sleep 1; echo sfsd; done
+history -a ; history >bash_history.sh
+while true ; do sleep 1;  ipython testOfRules-from-csv-or-cube-or-random.py; done
+history -a ; history >bash_history.sh
+while true ; do sleep 1;  ipython testOfRules-from-csv-or-cube-or-random.py; done
+history -a ; history >bash_history.sh
+while true ; do sleep 1;  ipython testOfRules-from-csv-or-cube-or-random.py; done
+history -a ; history >bash_history.sh
+jupyter notebook
+apt show tcl
+mc
+jupyter notebook
+mc
+cd
+cd grdr20/PyMartinCA
+history -a ; history >bash_history.sh
+git init
+git checkout -b Jiri
+git remote add origin https://github.com/martin12333/PyMartinCA 
+history -a ; history >bash_history.sh
+git add --verbose --dry-run beta/testOfRules/*.csv
+mc
+history -a ; history >bash_history.sh
+history 
+echo ZVORAL
+git init
+git checkout -b Jiri
+git remote add origin https://github.com/martin12333/PyMartinCA 
+git pull -vv origin Jiri
+while true ; do sleep 1;  ipython testOfRules-from-csv-or-cube-or-random.py; done
+mc
+while true ; do sleep 1;  ipython testOfRules-from-csv-or-cube-or-random.py; done
+history 
+cd grdr20/PyMartinCA
+git pull -v origin Jiri
+mc
+git pull -v origin Jiri
+git ls
+git ls-files
+mc
+cd
+cd grdr20/PyMartinCA/beta/testOfRules/output/
+ll
+cat $( ls -1tr output/* ) | grep .
+cat $( ls -1tr *rand* ) | grep .
+cd grdr20/PyMartinCA/beta/testOfRules/output/
+history 
+cat $( ls -1tr *rand* ) | grep .|wc -l
+cat $( ls -1tr *rand* ) | grep r2|wc -l
+grep -o 'r3[^ ]*' output-all.rules.csv |sort|uniq -c|wc
+cat $( ls -1tr *rand* ) | grep r2|grep -o 'r3[^ ]*' output-all.rules.csv |sort|uniq -c|wc
+cat $( ls -1tr *rand* ) | grep r2|grep -o 'r3[^ ]*'  |sort|uniq -c|wc
+cat $( ls -1tr *rand* ) | grep r2|grep -o 'r2[^ ]*'  |sort|uniq -c|wc
+history -a ; history >bash_history.sh
+cat $( ls -1tr *rand* ) | grep r2|grep -o 'r2[^ ]*'  |sort|uniq -c
+history -a ; history >bash_history.sh
+cat $( ls -1tr *rand* ) | grep r2|grep -o 'r2[^ ]*'  |sort|uniq -c
+cat $( ls -1tr *rand* ) | grep r2|grep -o 'r2[^ ]*'  |sort|uniq -c|wc
+cat $( ls -1tr *rand* ) | grep r2|awk '$7<1.5 && $12>120'
+cat $( ls -1tr *rand* ) | grep r2|awk '$7<1.5 && $12>280'
+cat $( ls -1tr *rand* ) | grep r2|awk '$7<1.7 && $12>280'
+cat $( ls -1tr *rand* ) | grep r2|awk '$7<1.6 && $12>280'
+history -a ; history >bash_history.sh
+cd grdr20/PyMartinCA/beta/testOfRules/
+mc
+cd
+cd grdr20/PyMartinCA
+history 
+git pull -vv origin Jiri
+history 
+cd
+cd grdr20/PyMartinCA/beta/testOfRules/
+cd ..
+history 
+while true ; do sleep 1;  python3 testOfRules-from-csv-or-cube-or-random.py; done
+cd grdr20/PyMartinCA/beta/testOfRules/
+history 
+ll output/
+history -a ; history >bash_history.sh
+history 
+grep r2 output/*.csv |awk '$7<1.6 && $12>280'
+history -a ; history >bash_history.sh
+history 
+grep r2 output/*.csv |grep -o 'r2[^ ]*'  |sort|uniq -c|wc
+grep r2 output/*.csv |grep -o 'r2[^ ]*'  |sort|wc
+grep r2 output/*.csv |grep -o 'r2[^ ]*'  |sort|uniq -c|wc
+history -a ; history >bash_history.sh
+history 
+grep r2 output/*.csv |awk '$7<1.6 && $12>280'
+history -a ; history >bash_history.sh
+mc
+grep r2 output/*.csv |awk '$7>1.2 && $12<380'
+grep r2 output/*.csv |awk '$7>1.2 && $12<300'
+history -a ; history >bash_history.sh
+history |grep sort
+history -a ; history >bash_history.sh
+history 
+history |grep git
+cd
+cd grdr20/PyMartinCA
+git pull -vv origin Jiri
+git add --verbose  beta/testOfRules/*.csv beta/testOfRules/*.py
+mc
+git add --verbose  beta/testOfRules/*.csv beta/testOfRules/*.py
+git pull -vv origin Jiri
+mc
+git pull -vv origin Jiri
+git add --verbose  beta/testOfRules/*.csv beta/testOfRules/*.py
+git pull -vv origin Jiri
+git add --verbose  beta/testOfRules/*.csv beta/testOfRules/*.py
+git commit  -a -m bkup
+mc
+git add --verbose  beta/testOfRules/*.csv beta/testOfRules/*.py
+git commit  -a -m bkup
+git pull -vv origin Jiri
+cd grdr20/PyMartinCA/beta/testOfRules/
+while true ; do sleep 1;  python3 testOfRules-from-csv-or-cube-or-random.py; done
+mc
+while true ; do sleep 1;  python3 old-green-testOfRules-from-csv-or-cube-or-random.py; done
+mc
+du -am
+cd
+find . -name core
+history -a ; history >bash_history.sh
+find /etc -name core
+find . -name core
+find . -name core -type f
+history -a ; history >bash_history.sh
+cd grdr20/PyMartinCA
+du -am
+du -am|sort -n
+du -ak|sort -n
+du -ak|sort -n|grep co
+du -ak|sort -n|grep cor
+history -a ; history >bash_history.sh
+cd grdr20/PyMartinCA/beta/testOfRules/
+cd
+cd grdr20/PyMartinCA/beta/testOfRules/
+history -a ; history >bash_history.sh
+cd grdr20/PyMartinCA/beta/testOfRules/
+cd
+cd grdr20/PyMartinCA/beta/testOfRules/
+du -ak|sort -n
+du -am|sort -n
+history -a ; history >bash_history.sh
+find . -name core -type f
+cd grdr20/PyMartinCA/beta/
+du -am|sort -n
+cd grdr20/PyMartinCA/beta/testOfRules/
+python3 old-green-testOfRules-from-csv-or-cube-or-random.py; 
+history |grep awk
+grep r2 output/random.csv |awk '$7>1.2 && $12<300'
+grep r2 output/random.csv |awk '$7<1.5 && $12>300'
+grep r2 output/random.csv |awk '$7<1.5 && $12>300'|nl
+grep r2 output/random.csv |awk '$7<1.5 && $12>300 && $5<1000000  '|nl
+grep r2 output/random.csv |awk '$7<1.5 && $12>300 && $5<1000000  '|sort -k 5,5n
+history -a ; history >bash_history.sh
+grep r2 output/random.csv |awk '$7<1.5 && $12>300 && $5<1000000 {print $3} '|sort -k 5,5n
+history -a ; history >bash_history.sh
+grep r2 output/random.csv |awk '$7<1.5 && $12>300 && $5<1000000 {print $3} '|sort -k 5,5n
+grep r2 output/random.csv |awk '$7<1.5 && $12>300 && $5<1000000  '|sort -k 5,5n
+grep r2 output/random.csv |awk '$7<1.5 && $12>300 && $5<1000000 {print $5/$9} '|sort -k 5,5n
+grep r2 output/random.csv |awk '$7<1.5 && $12>300 && $5<1000000 {print $5/$9} '|sort -k 1,1n
+grep r2 output/random.csv |awk '$7<1.5 && $12>300 && $5<1000000 {print $5/$9,$0} '|sort -k 1,1n
+grep r2 output/training.csv |awk '$7<1.5 && $12>300 && $5<1000000 {print $5/$9,$0} '|sort -k 1,1n
+history -a ; history >bash_history.sh
+history 
+grep r2 output/training.csv |awk '$7<1.5 && $12>300 && $5<1000000 {print $5/$9,$0} '|sort -k 1,1n
+history 
+grep r2 output/random.csv |awk '$7<1.5 && $12>300 && $5<1000000  '|sort -k 5,5n
+history 
+grep r2 output/random.csv |awk '$7<1.5 && $12>300 && $5<1000000 {print $5/$9,$0} '|sort -k 1,1n
+grep r2 output/random.csv |awk '$7<1.5 && $12>300 && $5<1000000 {print $5/$9,$0} '
+grep r2 output/random.csv |awk '$7<1.5 && $12>300 && $5<1000000 {print $5/$9,$0} '|nl
+grep r2 output/random.csv |awk '$7<1.5 && $12>300  {print $5/$9,$0} '|nl
+grep r2 output/random.csv |awk '$7<1.5 && $12>300 && $5<1000000 {print $5/$9,$0} '|sort -k 1,1n
+grep r2 output/random.csv |awk '$7<1.5 && $12>300  {print $5/$9,$0} '|nl
+wc output/*
+history -a ; history >bash_history.sh
+history -a ; history >old-green-bash_history.sh
+grep r2 output/random.csv |awk '$7<1.5 && $12>300  {print $5/$9,$12/$3,$0} '|nl
+grep r2 output/training.csv |awk '$7<1.5 && $12>300  {print $5/$9,$12/$3,$0} '|nl
+grep r2 output/random.csv |awk '$7<1.5 && $12>300  {print $5/$9,$12/$3,$0} '|nl
+grep r2 output/random.csv |awk '$7<1.5 && $12>300  {print $5/$9,$12/$3,$0} '|sort -n
+history -a ; history >old-green-bash_history.sh
+grep r2 output/random.csv |awk '$7<1.5 && $12>300  {print $5/$9,$12/$3,$0} '|nl
+grep r2 output/random.csv |awk '$7<1.4 && $12>300  {print "Pw2ratio",$5/$9,$12/$3,$0} '|nl
+grep r2 output/random.csv |awk '$7<1.4 && $12>300  {print $0,"Pw2ratio",$5/$9,"htratio"$12/$3} '|nl
+grep r2 output/random.csv |awk '$7<1.4 && $12>300  {print $0,"Pw2ratio",$5/$9,"htratio",$12/$3} '|nl
+grep r2 output/random.csv |awk '$7<1.4 && $12>300  {print $0,"Pw2ratio",$5/$9,"htratio",$12/$3} '
+grep r2 output/random.csv |awk '$7<1.4 && $12>300  {print $0,"Pw2ratio",$5/$9,"htratio",$12/$3} '|tr ' ' ','
+grep r2 output/random.csv |awk '$7<1.4 && $12>300  {print $0,"Pw2ratio",$5/$9,"htratio",$12/$3} '|tr ' ' ','|tee awk-random.csv
+grep r2 output/random.csv |awk '$7<1.4 && $12>300  {print $0,"Pw2ratio",$5/$9,"htratio",$12/$3} '|tr ' -s ' ','|tee awk-random.csv
+grep r2 output/random.csv |awk '$7<1.4 && $12>300  {print $0,"Pw2ratio",$5/$9,"htratio",$12/$3} '|tr -s ' ' ','|tee awk-random.csv
+history -a ; history >old-green-bash_history.sh
+grep r2 output/random.csv |awk '$7<1.4 && $12>300  {print $0,"Pw2ratio",$5/$9,"htratio",$12/$3} '|tr -s ' ' ','|nl|tee awk-random.csv
+grep r2 output/random.csv |awk '$7<1.4 && $12>300  {print $0,"Pw2ratio",$5/$9,"htratio",$12/$3} '|nl|tr -s ' ' ','|tee awk-random.csv
+grep r2 output/random.csv |awk '$7<1.4 && $12>300  {print $0,"Pw2ratio",$5/$9,"htratio",$12/$3} '|tr -s ' ' ','|tee awk-random.csv
+grep r2 output/random.csv |awk '$7<1.4 && $12>300 && ($5/$9)<20 {print $0,"Pw2ratio",$5/$9,"htratio",$12/$3} '|tr -s ' ' ','|tee awk-random.csv
+grep r2 output/random.csv |awk '$7<1.4 && $12>300 && ($5/$9)<20 {print $0,"Pw2ratio",$5/$9,"htratio",$12/$3} '|tr -s ' ' ','|tee awk-random.csv|nl
+history -a ; history >old-green-bash_history.sh
+history 
+. myawk.sh 
+history -a ; history >old-green-bash_history.sh
+jupyter notebook
+cat myawk.sh 
+cd ..
+history -a ; history >old-green-bash_history.sh
+mc
+history -a ; history >testOfRules/old-green-bash_history.sh
+mc
+cd testOfRules/
+wc awk-random.csv 
+man split
+cd lifelib-input/
+ll
+mkdir parts-todo
+cd parts-todo/
+split --lines=48 --numeric-suffixes --suffix-length=4 --verbose ../../awk-random.csv 
+history -a ; history >../../../testOfRules/old-green-bash_history.sh
+ll
+cd ../..
+cd lifelib-input/parts-todo/
+x=x0000
+cd ../..
+x=lifelib-input/parts-todo/x0000
+history -a ; history >testOfRules/old-green-bash_history.sh
+history -a ; history >old-green-bash_history.sh
+echo $x
+history -a ; history >old-green-bash_history.sh
+mv -v $x lifelib-input/parts-todo/part.csv
+wc lifelib-input/parts-todo/part.csv
+mv -v  lifelib-input/parts-todo/part.csv lifelib-input/parts-todo/done
+history -a ; history >old-green-bash_history.sh
+for x in lifelib-input/parts-todo/x*; do echo $x; done
+history -a ; history >old-green-bash_history.sh
+mc
+ll
+history 
+mc ../..
+mc
+x=lifelib-input/parts-todo/x0000
+mv -v $x lifelib-input/parts-todo/part.csv
+#python3 testOfRules-from-csv-or-cube-or-random.py
+history -a ; history >old-green-bash_history.sh
+python3 testOfRules-from-csv-or-cube-or-random.py
+mc
+history -a ; history >old-green-bash_history.sh
+history 
+cd lifelib-input/parts-todo/
+split --lines=48 --numeric-suffixes --suffix-length=4 --verbose ../convert--output0.csv 
+cd ../..
+history 
+x=lifelib-input/parts-todo/x0000
+mv -v $x lifelib-input/parts-todo/part.csv
+python3 testOfRules-from-csv-or-cube-or-random.py
+mc
+history -a ; history >old-green-bash_history.sh
+mc
+python3 testOfRules-from-csv-or-cube-or-random.418.py 
+python3 testOfRules-from-csv-or-cube-or-random.418.py <lifelib-input/r2-training.csv 
+history -a ; history >old-green-bash_history.sh
+./2myawk.sh <output/v.418.csv >awk418.csv
+./2myawk.sh <output/v.418.csv 
+history -a ; history >old-green-bash_history.sh
+mc
+history -a ; history >old-green-bash_history.sh
+echo ggdfg
+history -a ; history >old-green-bash_history.sh
+cat myawk.sh 
+cat 2myawk.sh 
+cat myawk407.sh 
+grep <output/random417.csv    r2  |awk '$7<1.7 && $12>300 && ($5/$9)<20 {print $0,"Pw2ratio",$5/$9,"htratio",$12/$3} '
+grep <output/random417.csv    r2  |awk '$7<1.7 && $12>300 && ($5/$9)<20 {print $0,"Pw2ratio",$5/$9,"htratio",$12/$3} '| sort -n -k 5
+grep <output/random417.csv    r2  |awk '$7<1.7 && $12>300 && ($5/$9)<20 {print $0,"Pw2ratio",$5/$9,"htratio",$12/$3} '| sort -n -k 5 -r
+grep <output/random417.csv    r2  |awk '$7<1.7 && $12>300 && ($5/$9)<20 {print $0,"Pw2ratio",$5/$9,"htratio",$12/$3} '| sort -n -k 5 -r|tee 417.csv
+history -a ; history >old-green-bash_history.sh
+mc
+ll
+grep -E <output/random.csv   'r2|b3s'  |awk '$7<1.7 && $12>300 && ($5/$9)<20 {print $0,"Pw2ratio",$5/$9,"htratio",$12/$3} '| sort -n -k 5 -r|tee 402.csv
+grep -E <output/random404.csv   'r2|b3s'  |awk '$7<1.7 && $12>300 && ($5/$9)<20 {print $0,"Pw2ratio",$5/$9,"htratio",$12/$3} '| sort -n -k 5 -r|tee 404.csv
+grep -E <output/v.418.csv   'r2|b3s'  |awk '$7<1.7 && $12>300 && ($5/$9)<20 {print $0,"Pw2ratio",$5/$9,"htratio",$12/$3} '| sort -n -k 5 -r|tee 418.csv
+ls -latr
+history -a ; history >old-green-bash_history.sh
+jupyter lab
+jupyter notebook
+find . -name core -type f
+df -m
+history -a ; history >old-green-bash_history.sh
+jupyter notebook
+pkill jupyter
+pkill -v jupyter
+pkill jupyter
+top
+history -a ; history >old-green-bash_history.sh
+mc
+history 
+history |grep 418
+python3 testOfRules-from-csv-or-cube-or-random.418.py <lifelib-input/r2-training.csv 
+history -a ; history >old-green-bash_history.sh
+python3 testOfRules-407-from-csv-or-cube-or-random.py 
+history -a ; history >old-green-bash_history.sh
+history 
+grep b  output/*.csv   |awk '$7>3.5 {print $0,"Pw2ratio",$5/$9 } '| sort -n -k 5
+history -a ; history >old-green-bash_history.sh
+grep b  output/*.csv   |awk '$7>3.5 {print $0,"Pw2ratio",$5/$9 } '| sort -n -k 7
+export LC_ALL=C
+export LC_ALL=C ; grep b  output/*.csv   |awk '$7>3.5 {print $0,"Pw2ratio",$5/$9 } '| sort -n -k 7
+history -a ; history >old-green-bash_history.sh
+export LC_ALL=C ; grep b  output/*.csv   |awk '$7>2.5 {print $0,"Pw2ratio",$5/$9 } '| sort -n -k 7
+export LC_ALL=C ; grep b  output/*.csv   |awk '$7>2.5 {print $0,"Pw2ratio",$5/$9 } '| sort -n -k 3
+export LC_ALL=C ; grep b  output/*.csv   |awk '$7>2.5 {print $0,"Pw2ratio",$5/$9 } '| sort -n -k 3 -r
+export LC_ALL=C ; grep b  output/*.csv   |awk '$3>1300 {print $0,"Pw2ratio",$5/$9 } '| sort -n -k 3 -r
+export LC_ALL=C ; grep b  output/*.csv   |awk '$3>1300 && $7>2 {print $0,"Pw2ratio",$5/$9 } '| sort -n -k 3 -r
+export LC_ALL=C ; grep b  output/*.csv   |awk '$3>1300 && $7>2 {print $0,"Pw2ratio",$5/$9 } '| sort -n -k 7 -r
+export LC_ALL=C ; grep b  output/*.csv   |awk '$3>1300 && $7>2 {print $0,"Pw2ratio",$5/$9 } '| sort -n -k 7 
+export LC_ALL=C ; grep b  output/*.csv   |awk '  $3>1300 && $7>3 {print $0,"Pw2ratio",$5/$9 } '| sort -n -k 7 
+history -a ; history >old-green-bash_history.sh
+export LC_ALL=C ; grep b  output/*.csv   |awk '  $3>1300 && $7>3 {print $0,"Pw2ratio",$5/$9 } '| sort -n -k 7 -r
+mkdir filtered
+export LC_ALL=C ; grep b  output/*.csv   |awk '  $3>1300 && $7>3 {print $0,"Pw2ratio",$5/$9 } '| sort -n -k 7 -r|tee filtered/grow.csv
+mkdir recomputed
+python3 testOfRules-from-csv-or-cube-or-random.418.py <filtered/grow.csv 
+python3 testOfRules-from-csv-or-cube-or-random.418.py 
+history -a ; history >old-green-bash_history.sh
+python3 testOfRules-from-csv-or-cube-or-random.418.py <lifelib-input/input-borderline1.rules.csv 
+history -a ; history >old-green-bash_history.sh
+history 
+mc
+grep b  output/417.csv   |awk '$7>3.5 {print $0,"Pw2ratio",$5/$9 } '| sort -n -k 7
+history -a ; history >old-green-bash_history.sh
+history 
+history |grep aw
+export LC_ALL=C ; grep b  output/417.csv   |awk '$7<1.7 && $12>300 && ($5/$9)<20 {print $0,"Pw2ratio",$5/$9,"htratio",$12/$3} '| sort -n -k 5 -r
+export LC_ALL=C ; grep b  output/417.csv   |awk '$7<1.7 && $12>300 && ($5/$9)<20 {print $0,"Pw2ratio",$5/$9} '| sort -n -k 5 -r
+history -a ; history >old-green-bash_history.sh
+export LC_ALL=C ; grep b  output/417.csv   |awk '$7<1.7 && $12>300 && ($5/$9)<20 {print $0,"Pw2ratio",$5/$9} '| sort -n -k 5 |nl
+export LC_ALL=C ; grep b  output/417.csv   |awk '$7<1.7 && $12>400 && ($5/$9)<20 {print $0,"Pw2ratio",$5/$9} '| sort -n -k 5 -r
+export LC_ALL=C ; grep b  output/417.csv   |awk '$7<1.7 && $12>400 && ($5/$9)<20 {print $0,"Pw2ratio",$5/$9} '| sort -n -k 5 
+export LC_ALL=C ; grep b  output/417.csv   |awk ' $12>400 && ($5/$9)<18 {print $0,"Pw2ratio",$5/$9} '| sort -n -k 5 
+export LC_ALL=C ; grep b  output/417.csv   |awk '$7<1.7 && $12>400 && ($5/$9)<18 {print $0,"Pw2ratio",$5/$9} '| sort -n -k 5 
+history -a ; history >old-green-bash_history.sh
+export LC_ALL=C ; grep b  output/417.csv   |awk '$7<1.7 && $12>400 && ($5/$9)<18 {print $0,"Pw2ratio",$5/$9} '| sort -n -k 5 |tee filtered/417.csv
+justnameext=r2-date07u.csv
+cp -vi output/417.csv output/$justnameext
+cp -vi filtered/417.csv filtered/$justnameext
+history -a ; history >old-green-bash_history.sh
+export LC_ALL=C ; grep b  output/417.csv   |awk '$7<1.7 && $12>400 && ($5/$9)<18 {print $0,"Pw2ratio",$5/$9} '| sort -n -k 5 -r |tee filtered/417.csv
+history -a ; history >old-green-bash_history.sh
+cp -vi filtered/417.csv filtered/$justnameext
+history -a ; history >old-green-bash_history.sh
+export LC_ALL=C ; grep b  output/417.csv   |awk '$7<1.7 && $12>400 && ($5/$9)<18 {print $0,"Pw2ratio",$5/$9} '| sort -n -k 5 |cut -f 15 -d \   
+export LC_ALL=C ; grep b  output/417.csv   |awk '$7<1.7 && $12>400 && ($5/$9)<18 {print $0,"Pw2ratio",$5/$9} '| sort -n -k 5 |cut -f 15 -d \   |wc
+export LC_ALL=C ; grep b  output/417.csv   |awk '$7<1.7 && $12>400 && ($5/$9)<18 {print $0,"Pw2ratio",$5/$9} '| sort -n -k 5 |cut -f 15 -d \   |sort -u
+export LC_ALL=C ; grep b  output/417.csv   |awk '$7<1.7 && $12>400 && ($5/$9)<18 {print $0,"Pw2ratio",$5/$9} '| sort -n -k 5 |cut -f 15 -d \   |sort -u|wc
+export LC_ALL=C ; grep b  output/417.csv   |awk '$7<1.7 && $12>400 && ($5/$9)<18 {print $0,"Pw2ratio",$5/$9} '| sort -n -k 5 |cut -f 15 -d \   |sort |uniq -c|sort -n
+history -a ; history >old-green-bash_history.sh
+./update-lifelib.sh
+cd apgmera/
+du
+mc
+history -a ; history >old-green-bash_history.sh
+history -a ; history >old-green-bash_history.sh; history |grep apg
+history -a ; history >old-green-bash_history.sh; history |grep apgl
+history -a ; history >old-green-bash_history.sh; history |grep apgl|grep 1000
+./apgluxe -L 1 -t 1  --rule r2bd1a2c0s6601e0    -n 1000
+mc
+time ./apgluxe -L 1 -t 1  --rule r2bd1a2c0s6601e0    -n 1000
+time ./apgluxe -L 1 -t 1  --rule r2bd1a2c0s6601e0    -n 10000
+time ./apgluxe -L 1 -t 1  --rule r2bd1a2c0s6601e0    -n 1000
+history -a ; history >old-green-bash_history.sh; history |grep apgl|grep 1000
+mc
+mv -i -v --target-directory=oldlog/ log.*.txt
+history -a ; history >old-green-bash_history.sh; history |grep apgl|grep 1000
+time ./apgluxe -L 1 -t 1  --rule r2bd1a2c0s6601e0    -n 1000
+ll
+grep --count '^xq' log.*.txt
+history -a ; history >old-green-bash_history.sh
+cd
+cd grdr20/PyMartinCA/beta/testOfRules/
+awk --help 
+awk --h
+awk -h
+gawk -h
+man awk
+awk -f apgsearch.awk ~/apgmera/oldlog/log.159*
+man awk
+gawk -h
+sudo apt-get install gawk
+gawk -h
+man gawk
+awk -f apgsearch.awk ~/apgmera/oldlog/log.159*
+mc
+awk -f apgsearch.awk ~/apgmera/oldlog/log.159*
+for x in  ~/apgmera/oldlog/log.159* ; do echo; done
+history -a ; history >old-green-bash_history.sh
+history |grep aw
+for x in  ~/apgmera/oldlog/log.159* ; do awk -f apgsearch.awk $x ; done
+history -a ; history >old-green-bash_history.sh
+mc
+for x in  ~/apgmera/oldlog/log.159* ; do awk -f apgsearch.awk $x ; done
+for x in  ~/apgmera/oldlog/log.159* ; do awk -f apgsearch.awk $x ; done >awk-apgsearch.txt
+history -a ; history >old-green-bash_history.sh
+cd
+cd apgmera/
+mv -i -v --target-directory=oldlog/ log.*.txt
+cd
+cd grdr20/PyMartinCA/beta/testOfRules/
+for x in  ~/apgmera/oldlog/log.159* ; do awk -f apgsearch.awk $x ; done >awk-apgsearch.txt
+history -a ; history >old-green-bash_history.sh
+for x in  ~/apgmera/oldlog/log.159* ; do awk -f apgsearch.awk $x ; done >old-awk-apgsearch.txt
+history -a ; history >old-green-bash_history.sh
+mc
+cd
+cd apgmera/
+time ./apgluxe -L 1 -t 1  --rule   r3b14t19s14t23  -n 500
+time --?
+time --he
+time -h
+time ./apgluxe -L 1 -t 1  --rule   r2b8022c0s0841e0  -n 1000
+echo time ./apgluxe -L 1 -t 1  --rule   r2b8022c0s0841e0  -n 1000
+mv -i -v --target-directory=oldlog/ log.*.txt
+cd
+cd grdr20/PyMartinCA/beta/testOfRules/
+history -a ; history >old-green-bash_history.sh
+chmod u+x my*.sh
+chmod --verbose u+x my*.sh
+./mymultiapg.sh 
+history -a ; history >old-green-bash_history.sh
+./recompile.sh
+./mymultiapg.sh <lifelib-input/apg-test-r2-02.csv
+cat mymultiapg.sh 
+mc
+./mymultiapg.sh <lifelib-input/apg-test-r2-02.csv
+cd lifelib-input/
+. ./apg-test-r2-02.sh 
+cd
+cd grdr20/PyMartinCA/beta/testOfRules/
+cd lifelib-input/
+. ./apg-test-r2-02.sh 
+history -a ; history >old-green-bash_history.sh
+for x in  ~/apgmera/oldlog/log.159* ; do awk -f apgsearch.awk $x ; done >old-awk-apgsearch.txt
+cd ..
+for x in  ~/apgmera/oldlog/log.159* ; do awk -f apgsearch.awk $x ; done >old-awk-apgsearch.txt
+history -a ; history >old-green-bash_history.sh
+history |grep aw
+history |grep my
+./mymultiapg.sh <lifelib-input/apg-test-r2-03.csv
+history |grep my
+history -a ; history >old-green-bash_history.sh
+history |grep aw
+for x in  ~/apgmera/oldlog/log.159* ; do awk -f apgsearch.awk $x ; done >old-awk-apgsearch.txt
+history -a ; history >old-green-bash_history.sh
+for x in  ~/apgmera/oldlog/log.159* ; do awk -f apgsearch.awk $x ; done >old-awk-apgsearch.csv
+history -a ; history >old-green-bash_history.sh
+sleep 5
+sleep 2
+time sleep 5
+cd
+cd apgmera/
+time ./apgluxe -L 1 -t 1  --rule   r2b8022c0s0841e0  -n 1000
+cd apgmera/
+time ./apgluxe -L 1 -t 1  --rule   r3b14t19s14t23  -n 500
+timeout --foreground 120  ./apgluxe -L 1 -t 1  --rule   r3b14t19s14t23  -n 500
+timeout   --foreground 120  ./apgluxe -L 1 -t 1  --rule   r3b14t19s14t23  -n 500
+timeout   --foreground 30  ./apgluxe -L 1 -t 1  --rule   r3b14t19s14t23  -n 500
+history -a ; history >old-green-bash_history.sh
+timeout    30  ./apgluxe -L 1 -t 1  --rule   r3b14t19s14t23  -n 500
+history -a ; history >old-green-bash_history.sh
+cd apgmera/
+time ./apgluxe -L 1 -t 1  --rule   r2b8022c0s0841e0  -n 1000
+time ./apgluxe -L 1 -t 1  --rule   r3b14t19s14t23  -n 500
+date
+while true ; do sleep 10; date; done
+cd apgmera/
+history -a ; history >old-green-bash_history.sh
+history 
+timeout    30  ./apgluxe -L 1 -t 1  --rule   r3b14t19s14t23  -n 500
+ll Downloads/RSYNCrem/
+mc
+jupyter lab &  # has classic
+history -a ; history >old-green-bash_history.sh
+cd grdr20/PyMartinCA/beta/
+history -a ; history >old-green-bash_history.sh
+mkdir $HOME/GIT-bk04/pymartinca-beta.git
+mkdir --parents $HOME/GIT-bk04/pymartinca-beta.git
+history -a ; history >old-green-bash_history.sh
+git init --separate-git-dir $HOME/GIT-bk04/pymartinca-beta.git
+git init --separate-git-dir $HOME/GIT-bk04/pymartinca-beta.git/
+ll
+mc
+git init --separate-git-dir $HOME/GIT-bk04/pymartinca-beta.git/
+history -a ; history >old-green-bash_history.sh
+git remote add origin https://github.com/martin12333/PyMartinCA
+git checkout -b beta
+git pull -vv origin beta
+history -a ; history >old-green-bash_history.sh
+git add --verbose --dry-run 
+git add -vv  '*.py' '*.txt' '*.md' '*.sqc' '*.rle' '*.ipynb' '*.csv' '*.sh' '*.awk' old*.git 
+git add -vv  '*.py' '*.txt' '*.md' '*.sqc' '*.rle' '*.ipynb' '*.csv' '*.sh' '*.awk' 
+git add -vv  '*.py' '*.txt' '*.md' '*.sqc' '*.rle' '*.ipynb' '*.csv' '*.sh' '*.awk' 'old*.git' 
+history -a ; history >old-green-bash_history.sh
+git commit  -a -m trying
+git pull -vv origin beta
+mc
+cd ..
+mv -i -v --target-directory=oldlog/ log.*.txt
+mv -i -v beta oldbeta,08e
+mkdir beta
+history -a ; history >old-green-bash_history.sh
+mc
+history 
+mkdir --parents $HOME/GIT-bk04/pymartinca-beta.git
+git init --separate-git-dir $HOME/GIT-bk04/pymartinca-beta.git/
+mc
+cduild
+cd beta
+mc
+git init --separate-git-dir $HOME/GIT-bk04/pymartinca-beta.git/
+mkdir --parents $HOME/GIT-bk04/pymartinca-beta.git
+git init --separate-git-dir $HOME/GIT-bk04/pymartinca-beta.git/
+history -a ; history >old-green-bash_history.sh
+history 
+git remote add origin https://github.com/martin12333/PyMartinCA
+git checkout -b beta
+history -a ; history >old-green-bash_history.sh
+git pull -vv origin beta
+mc
+git pull -vv origin beta
+du
+mc
+history 
+history -a ; history >old-green-bash_history.sh
+export DISPLAY=:0
+mc
+history |grep ata
+cd atari-xf25/
+history |grep ario
+atari800 Mario_Bros._1983_Atari_US_t_5200.atr 
+ll
+history |grep ata
+find / -name core -type f
+find / -name core 2>~/2
+find / -name core -type f 2>~/2
+find / -name core -type f 2>~/2 -ls
+find / -name core  2>~/2 -ls
+find / -name core -type f 2>~/2 -ls
+history -a ; history >old-green-bash_history.sh
+history |grep snap
+history |grep dock
+docker
+apt show docker.io
+docker
+snap info docker
+history -a ; history >old-green-bash_history.sh
+history 
+docker
+sudo apt install docker.io 
+sudo apt update
+sudo apt install docker.io 
+sudo apt update
+docker
+snap install docker
+history -a ; history >old-green-bash_history.sh
+docker pull sagemath/sagemath
+sudo docker pull sagemath/sagemath
+history -a ; history >old-green-bash_history.sh
+zsh
+sudo -i
+history -a ; history >old-green-bash_history.sh
+echo sudo -i login
+history -a ; history >old-green-bash_history.sh
+id
+zsh
+sudo apt update
+docker run -p8888:8888 sagemath/sagemath:latest sage-jupyter
+sudo docker run -p8888:8888 sagemath/sagemath:latest sage-jupyter
+id
+zsh
+zsh
+newgrp docker 
+sudo -i login
+df -m
+zsh
+docker pull gibiansky/ihaskell
+df -m
+zsh
+mc
+zsh
+mc
